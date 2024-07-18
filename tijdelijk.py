@@ -19,7 +19,7 @@ def print_aanbieding ():
         if len(el) > 4: print(el.upper())
         else: print(el.lower())
 
-decoreer("Aaanbieding")
+decoreer("Aanbieding")
 print_aanbieding()
         
 
